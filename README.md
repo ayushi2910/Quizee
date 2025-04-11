@@ -1,7 +1,3 @@
 # Quizee
 
-To run the program follow the following steps 
-1.Download ZIP file 
-2.Extract ZIP file 
-3.Click on QUIZEE-master
-4.Click on main_start
+Quizee is a web-based quiz application designed to deliver questions in real-time, evaluate responses instantly, and provide performance feedback to users. It offers an interactive user experience with smooth navigation, score tracking, and rjumbled word rendering.
